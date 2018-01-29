@@ -12,4 +12,4 @@
 >
 > > *Provide an example of each and a detailed solution.*
 >
-> Examples of each exponent law must be original <u>*(Must not include examples from our class notes or examples found in the textbook)*</u>
+> Examples of each exponent law must be original <u><i>(Must not include examples from our class notes or examples found in the textbook)</i></u>
