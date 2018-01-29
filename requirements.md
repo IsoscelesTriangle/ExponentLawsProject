@@ -1,3 +1,7 @@
+---
+title: Project Requirements
+---
+
 Here is the list of requirements and what needs to be communicated in your final product:
 
 - A description of the exponent laws for **multiplying** and **dividing** powers with the same base	
