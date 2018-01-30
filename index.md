@@ -2,51 +2,48 @@
 
 > ​	Before diving into the individual laws that govern exponents, you should first understand what exponents are. Feel free to jump to any section of this page and view a detailed explanation of each exponent law with examples and detailed solutions.
 
-​	Exponents are a fancy way of expressing a number that is multiplied by itself multiple times. For example $10^5$ would yeild the same result as $10 \cdot 10 \cdot 10 \cdot 10 \cdot 10$. When reading exponents you wouldn't say *"ten times ten time ten times…"* instead you would say *"Ten to the fifth power."* or *"Ten to the power of five."* 
+​	Exponents are a fancy way of expressing a number that is multiplied by itself multiple times. For example ![](/Users/19xsmitholvera/Documents/GitHub/ExponentLawsProject/images/tentothefifthsimp.gif) would yeild the same result as ![](images/tentothefifth.gif) When reading exponents you wouldn't say *"ten times ten time ten times…"* instead you would say *"Ten to the fifth power."* or *"Ten to the power of five."* 
 
-[TOC]
+
 
 ## Exponent Laws
 
+---
+
 ###Multiplication & Division Laws
 
-#### Multipication
+####Multipication
 
-$$
-a^m \cdot a^n=a^{m+n}
-$$
+![](images/multiplicationlaw.gif)
 
 
 
 #### Division
 
-$$
-{a^m\over a^n}=a^{m-n}
-$$
+![](images/divisionlaw.gif)
 
 
+
+---
 
 ###A Power to a Power Law
 
-$$
-(a^m)^n=a^{m \cdot n}
-$$
+![](images/powerlaw.gif)
 
-
+---
 
 ###Negative and Zero Laws 
 
 #### Negative
 
-$$
-a^{-n}={1 \over a^n}
-$$
+![](images/negativelaw.gif)
 
 
 
 #### Zero
 
-$$
-a^0=1
-$$
+![](images/zerolaw.gif)
 
+
+
+---
