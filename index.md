@@ -8,11 +8,9 @@
 
 ## Exponent Laws
 
----
+### Multiplication & Division Laws
 
-###Multiplication & Division Laws
-
-####Multipication
+#### Multipication
 
 ![](images/multiplicationlaw.gif)
 
@@ -26,13 +24,13 @@
 
 ---
 
-###A Power to a Power Law
+### A Power to a Power Law
 
 ![](images/powerlaw.gif)
 
 ---
 
-###Negative and Zero Laws 
+### Negative and Zero Laws 
 
 #### Negative
 
